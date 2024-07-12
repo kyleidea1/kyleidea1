@@ -1,10 +1,13 @@
-
+<div align=center>
+  
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyleidea1&count_bg=%23FF9900&title_bg=%23000000&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
-<p align="center">
+<div align="center">
     <img src="https://github.com/user-attachments/assets/ea50ab81-f087-4790-8808-129d5ec2d442" alt="Kyle-hub" width="300"/>
-</p>
-
+</div>
+<br>
 <div align=center>
     <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />
@@ -21,11 +24,13 @@
     <br>
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 </div>
-
-# 🔥
-
+<br>
+<div align=center>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleidea1&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyleidea)](https://solved.ac/kyleidea/)
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyleidea)](https://solved.ac/kyleidea/)
+</div>
 
 
