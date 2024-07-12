@@ -27,7 +27,7 @@
 <br>
 <div align=center>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleidea1&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleidea1&show_icons=true&theme=gruvbox)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyleidea)](https://solved.ac/kyleidea/)
