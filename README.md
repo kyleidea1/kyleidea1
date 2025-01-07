@@ -9,7 +9,7 @@
 
 ### 🔨 Currently Working On...  
 
-**마뜨겁나**, 본격 격투기 매칭 서비스!
+**🔥마뜨겁나🔥**, 본격 격투기 매칭 서비스!
 - 격투기 입문자들의 스파링 파트너 찾기 어려움 해소
 - 격투기 매니아들의 매칭 플랫폼
 - **[Are You Hot](https://github.com/kyleidea1/AreYouHOT)**<br>
@@ -43,15 +43,18 @@
 
 ## 💼 Experience
 - **Kakao Tech Campus** - Software Development Bootcamp  
-  March 2024 – Present  
-  Kakao Tech Campus - Software Development BootcampMarch 2024 – December 2024Completed a Kakao Map clone project and led the Android development for 'ChallengeOnAir,' focusing on cloud integration with AWS and backend communication.
+  March 2024 – December 2024  
+  Completed Android Course and led the development for 'ChallengeOnAir', which is real-time challenge Android Application focusing on cloud integration with AWS and backend communication.
+  
 - **LAYR Corporation** - Digital Health Care Startup  
   August 2023 – March 2024  
-  Developed an Android app using Android Studio and Jetpack Compose. Collaborated using Git, Figma, and Notion, and contributed to the project’s release.
+  Developed an Android app using Android Studio and Jetpack Compose. Contributed to the development of an electromyography (EMG) measurement service designed for use during workouts. Collaborated using Git, Figma, and Notion, and contributed to the project’s release.
 
 - **Samsung Heavy Industries** - Field Training  
   July 2023 – August 2023  
   Designed a remote-control application for a welding robot and gained valuable corporate experience.
+
+
 
 ## 🔍 Projects  
 - **Challenge On Air**  
@@ -60,11 +63,11 @@
   
 - **Sign Language Translator**  
   May 2024 – Nov 2024  
-  Lead the development of an Android app for Sign Language translation as part of my graduation project.  
+  Lead the development of an Android app for Sign Language translation as part of the graduation project.  
   
 - **Manolja**  
   Aug 2024  
-  Development of a tourism promotion application for Busan City with backend communication experience.  
+  Development of a tourism promotion application for Busan City with backend communication experience for Hackathon.  
 
 ## 🛠 Skills
 - **Languages**: Kotlin, Python, C, C++
