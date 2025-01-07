@@ -5,7 +5,7 @@
 </div>
 <br>
 
-<img alt="AreYouHot" src="areyouhot.png" align="right" style="width: 200px;"/>
+<img alt="AreYouHot" src="areyouhot.png" align="right" style="width: 220px;"/>
 
 ### 🔨 Currently Working On...  
 
@@ -41,12 +41,10 @@
   Bachelor’s Degree in Computer Science Engineering  
   March 2019 – Present
 
-## 🚀 Currently Learning
+## 💼 Experience
 - **Kakao Tech Campus** - Software Development Bootcamp  
   March 2024 – Present  
-  Exploring Android development with hands-on projects, APIs, Firebase, and collaborating on real-world services.
-
-## 💼 Experience
+  Kakao Tech Campus - Software Development BootcampMarch 2024 – December 2024Completed a Kakao Map clone project and led the Android development for 'ChallengeOnAir,' focusing on cloud integration with AWS and backend communication.
 - **LAYR Corporation** - Digital Health Care Startup  
   August 2023 – March 2024  
   Developed an Android app using Android Studio and Jetpack Compose. Collaborated using Git, Figma, and Notion, and contributed to the project’s release.
@@ -54,6 +52,28 @@
 - **Samsung Heavy Industries** - Field Training  
   July 2023 – August 2023  
   Designed a remote-control application for a welding robot and gained valuable corporate experience.
+
+## 🔍 Projects  
+- **Challenge On Air**  
+  Sep 2024 - Dec 2024  
+  Developed real-time challenge application. Worked as a leader of Android Team, communicating with BackEnd Team.  
+  
+- **Sign Language Translator**  
+  May 2024 – Nov 2024  
+  Lead the development of an Android app for Sign Language translation as part of my graduation project.  
+  
+- **Manolja**  
+  Aug 2024  
+  Development of a tourism promotion application for Busan City with backend communication experience.  
+
+## 🛠 Skills
+- **Languages**: Kotlin, Python, C, C++
+- **Technologies**: AWS, Git, GitHub, Android Studio, MySQL
+
+## 🪪Certificates
+- **AWS Certified Solutions Architect - Associate**
+- **SQLD**
+- **OPIc** Level: AL (Advanced-Low)
 
 ## 🏆 Competitions
 - **IoT Maker Study Group Competition**, Pusan National University  
@@ -67,22 +87,6 @@
 - **PNU X PKNU Collaborated Hackathon**, Busan Metropolitan City
   August 2024
   Awarded special prize for developing Companion Recruiting Application in Busan.
-
-## 🔍 Projects
-- **Sign Language Translator**  
-  May 2024 – Present  
-  Leading the development of an Android app for Sign Language translation as part of my graduation project.
-
-## 🛠 Skills
-- **Languages**: Kotlin, Python, C, C++
-- **Technologies**: AWS, Git, GitHub, Android Studio, TensorFlow, SQLite
-
-## 🌟 Miscellaneous
-- Tutored an elementary school student for 2 years.
-- Provided mentorship at Namil High School in Busan.
-- Organized and supported content during CSE Tech Week.
-- Completed an entrepreneurship practicum program.
-- Serving as the Senior Class Representative.
 
 Feel free to connect with me through [kyleidea@naver.com](mailto:kyleidea@naver.com). Thanks for visiting my GitHub profile!
 <div>
