@@ -3,28 +3,38 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyleidea1&count_bg=%23FF9900&title_bg=%23000000&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
-  
 <br>
-<div align=center>
-    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=61DAFB" />
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
+
+<img alt="AreYouHot" src="areyouhot.png" align="right" style="width: 200px;"/>
+
+### 🔨 Currently Working On...  
+
+**마뜨겁나**, 본격 격투기 매칭 서비스!
+- 격투기 입문자들의 스파링 파트너 찾기 어려움 해소
+- 격투기 매니아들의 매칭 플랫폼
+- **[Are You Hot](https://github.com/kyleidea1/AreYouHOT)**<br>
+💫많관부 Give it a look!💫
+<br>
+
+### 🛠 &nbsp;Tech Stack
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=0095D5)
+![Android](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=Android%20Studio&logoColor=3DDC84)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<br><br>
+
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kyleidea1&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="width: 49%;">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyleidea" alt="Solved.ac Profile" style="width: 49%;">
+</div>
+
 </div>
 <br>
-<div align=center>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyleidea1&show_icons=true&theme=gruvbox)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyleidea)](https://solved.ac/kyleidea/)
-</div>
 
 ## 🎓 Education
 - **Pusan National University**, Busan, South Korea  
