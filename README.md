@@ -1,20 +1,6 @@
 <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyleidea1&count_bg=%23FF9900&title_bg=%23000000&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-<br>
-
-<img alt="AreYouHot" src="areyouhot.png" align="right" style="width: 220px;"/>
-
-### 🔨 Currently Working On...  
-
-**🔥마뜨겁나🔥**, 본격 격투기 매칭 서비스!
-- 격투기 입문자들의 스파링 파트너 찾기 어려움 해소
-- 격투기 매니아들의 매칭 플랫폼
-- **[Are You Hot](https://github.com/kyleidea1/AreYouHOT)**<br>
-💫많관부 Give it a look!💫
-<br>
 
 ### 🛠 &nbsp;Tech Stack
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=0095D5)
