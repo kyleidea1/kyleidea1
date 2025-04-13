@@ -20,6 +20,7 @@ jobs:
           git config user.name kyleidea1
           git config user.email kyleidea@gmail.com
           git add -A .
-          if git commit -m "generated"; then
-            git push
+          git commit -m "generated"
+          git remote set-url origin https://${{ secrets.MY_PERSONAL_ACCESS_TOKEN }}@github.com/kyleidea1/kyleidea1.git
+          git push
           fi
